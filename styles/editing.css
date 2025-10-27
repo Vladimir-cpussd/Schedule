@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    align-items: center;
+    background-color: rgb(29, 29, 29);
+    
+}
+
+.title {
+    text-align: left;
+}
+
+.day {
+    background-color: rgb(224, 224, 224);
+    width: 20%;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+
+.place {
+    margin: 2px;
+}
+
+#scheduleForm {
+   display: flex;
+   flex-direction: column;
+   max-width: 20%;
+    text-align: center;
+    color: aliceblue;
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
+
+.btn {
+    text-decoration: none;
+
+}
