@@ -5,9 +5,11 @@ body {
 }
 
 .day {
-    width: 15%;
+    width: 50%;
     text-align: left;
     margin: 0 auto;
+    display: flex;
+    justify-content: center;
 }
 
 .date-groupe {
